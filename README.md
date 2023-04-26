@@ -27,7 +27,7 @@ I actively contribute to open-source projects:
   - My PRs [here](https://github.com/deepmind/dm_control/commits?author=kevinzakka)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deepmind/dm_control?style=social)
 - [MuJoCo WASM](https://github.com/zalo/mujoco_wasm)
-  - MY PRs [here](https://github.com/zalo/mujoco_wasm/commits?author=kevinzakka
+  - MY PRs [here](https://github.com/zalo/mujoco_wasm/commits?author=kevinzakka)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zalo/mujoco_wasm?style=social)
 
 ## Paper reimplementations
