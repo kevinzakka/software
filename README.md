@@ -42,8 +42,6 @@ These are machine learning paper reimplementations:
   - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/recurrent-visual-attention?style=social)
 - [spatial-transformer-networks](https://github.com/kevinzakka/spatial-transformer-network): A TensorFlow implementation of [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/spatial-transformer-network?style=social)
-- [densenet](https://github.com/kevinzakka/densenet): A PyTorch implementation of [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/densenet?style=social)
 
 ## Libraries
 
@@ -63,8 +61,6 @@ Software and libraries that I've written for my research and for fun:
   - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/mujoco_scanned_objects?style=social)
 - [torchkit](https://github.com/kevinzakka/torchkit): A lightweight library containing PyTorch utilities useful for day-to-day research
   - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/torchkit?style=social)
-- [hypersearch](https://github.com/kevinzakka/hypersearch): Tune the hyperparameters of your PyTorch models with HyperSearch
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/hypersearch?style=social)
 
 ## Pedagogical implementations
 
@@ -78,8 +74,6 @@ Purely pedagogical implementations of algorithms and concepts:
   - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/volumetric-fusion?style=social)
 - [learn-ransac](https://github.com/kevinzakka/learn-ransac): Learning about the different uses of RANSAC: Ransom Sample Consensus
   - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/learn-ransac?style=social)
-- [root-locus](https://github.com/kevinzakka/root-locus): Root Locus method for analyzing the stability of linear systems in Python
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/kevinzakka/root-locus?style=social)
 
 ## Miscellaneous
 
